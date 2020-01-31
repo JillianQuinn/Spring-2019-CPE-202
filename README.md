@@ -1,4 +1,5 @@
-# *These projects are protected by a confidentiality contract to avoid plagerism of future students. To see the code, please contact me and I will share the code privately. *
+# *These projects are protected by a confidentiality contract to avoid plagerism of future students. To see the code, please contact me Jiquinn@calpoly.edu and I will share the code privately. *
+
 
 # Spring-2019-CPE-202: Data structures & Associated Python Projects:
 
